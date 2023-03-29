@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right,#d17982,#3902ff);
+}
+
+.text1{
+    text-shadow: 0 3px 10px  black;
+}
+
+.card1{ 
+    box-shadow:  0 5px 15px black;
+    transition: all 0.7s ease-in;
+    cursor: pointer;
+}
+.card1:hover{
+    transform: scale(1.13);
+}
